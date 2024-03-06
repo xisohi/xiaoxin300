@@ -1,10 +1,10 @@
 # xiaoxin300
 
-20220927 Draft
+20240306 Draft
 
-1、同步 opencore 0.8.4
+1、同步 opencore 0.9.8
 
-2、支持macOS Monterey 12.6
+2、支持macOS Monterey 12.7.3
 
 3 、型号名称： MacBook Pro
 
